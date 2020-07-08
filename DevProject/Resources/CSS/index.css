@@ -1,0 +1,25 @@
+* {
+    font-family: Source Sans Pro;
+}
+
+.btn-special, .btn-special:hover, .btn-special:active, .btn-special:visited {
+    background-color: #BBBFCA !important;
+}
+.nounderline {
+    text-decoration: none !important
+  }
+.verylightfont {
+    font-weight: light !important;
+}
+ul.my-list li a, ul.nav li a:visited {
+    color: #0C1C40 !important;
+}
+
+ul.my-list li a:hover, ul.nav li a:active {
+    color: #0C1C40 !important;
+    text-decoration: none !important
+}
+
+ul.my-list li.active a {
+    color: #0C1C40 !important;
+}
