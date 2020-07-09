@@ -11,15 +11,18 @@
 .verylightfont {
     font-weight: light !important;
 }
-ul.my-list li a, ul.nav li a:visited {
+ul.my-list li a, ul.nav li a:visited, .bigbutton,.hyperlink a:visited{
     color: #0C1C40 !important;
 }
 
-ul.my-list li a:hover, ul.nav li a:active {
-    color: #0C1C40 !important;
+ul.my-list li a:hover, ul.nav li a:active, .bigbutton, .hyperlink a:hover{
+    color: #B5D0A8 !important;
     text-decoration: none !important
 }
 
-ul.my-list li.active a {
+ul.my-list li.active a, .hyperlink, .bigbutton{
     color: #0C1C40 !important;
 }
+.text-my-own-color {
+    color: #0C1C40 !important;
+  }
