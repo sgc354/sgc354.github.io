@@ -45,5 +45,5 @@ ul.my-list li.active a {
     color: #0C1C40 !important;
   }
 .u-strikethrough {
-    background-image: linear-gradient(180deg,transparent 70%,#B5D0A8 30%);
+    background-image: linear-gradient(180deg,transparent 70%,#B5D0A8 30%) !important;
 }
