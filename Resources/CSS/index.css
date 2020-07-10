@@ -39,7 +39,11 @@ ul.my-list li.active a {
   }
 .hyperlink:hover {
     color: #B5D0A8 !important;
+    text-decoration: none;
   }
 .hyperlink:active {
     color: #0C1C40 !important;
   }
+.u-strikethrough {
+    background-image: linear-gradient(180deg,transparent 70%,#B5D0A8 30%);
+}
